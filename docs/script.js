@@ -4,7 +4,7 @@ var map = {
   "email-link": "email: markmmoyou@gmail.com",
   "facebook-link": "facebook",
   "linkedin-link": "linkedin",
-  "github-link": "github",
+  "github-link": "github: MarkMoTrin",
 };
 
 $(".link").each(function(index) {
